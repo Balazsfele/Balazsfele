@@ -1,2 +1,4 @@
-- Csőcső Balazsfele vok
-- Kódolok xd
+## Ezek itt a projekteim
+
+## Discord botok:
+- Magyar ügyintéző (Privát bot)
