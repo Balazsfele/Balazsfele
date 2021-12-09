@@ -1,2 +1,2 @@
 ## Üdv az oldalamon!
-Nincs kész MÉG xd
+- Nincs kész MÉG xd
